@@ -2,9 +2,9 @@ package snacks;
 
 public class Studente {
 
-    String nome;
-    String cognome;
-    int eta;
+    private String nome;
+    private String cognome;
+    private int eta;
 
     public Studente(String nome, String cognome, int eta) {
 
